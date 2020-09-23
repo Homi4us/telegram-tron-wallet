@@ -1,0 +1,20 @@
+{
+  "name": "tg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "mongoose": "^5.10.6",
+    "node-telegram-bot-api": "^0.50.0",
+    "node-telegram-keyboard-wrapper": "^2.0.1",
+    "nodemon": "^2.0.4",
+    "tronweb": "^3.0.0"
+  }
+}
